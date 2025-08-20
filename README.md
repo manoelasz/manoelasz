@@ -111,11 +111,11 @@ As tecnologias que mais domino hoje são Node.js e Angular 17, mas estou sempre 
 />
 <img 
     align="left" 
-    alt="Swagger" 
-    title="Swagger"
+    alt="Npm" 
+    title="Npm"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"
 />
 
 <br/>
