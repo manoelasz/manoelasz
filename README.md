@@ -132,6 +132,7 @@ As tecnologias que mais domino hoje são Node.js e Angular 17, mas estou sempre 
   <img src="https://media.tenor.com/vBGIfQpLk50AAAAi/sanrio-sanrio-characters.gif" width="150px" />
   
   <br><br>
+  
   <img
     height=154
     alt="Profile Details"
