@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`** ｡𖦹°‧
  
-Oi, eu me chamo Manu ! 💜 Tenho 19 anos e sou de Curitiba.
+Oi, eu me chamo Manu ! 💜 Tenho 20 anos e sou de Curitiba.
 Atualmente curso Análise e Desenvolvimento de Sistemas e já concluí alguns cursos voltados para stacks de desenvolvimento e lógica de programação.
 
 As tecnologias que mais domino hoje são Node.js e Angular 17, mas estou sempre buscando aprender e explorar novas ferramentas para evoluir como desenvolvedora 😸
