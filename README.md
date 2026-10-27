@@ -121,25 +121,3 @@ As tecnologias que mais domino hoje são Node.js e Angular 17, mas estou sempre 
 <br/>
 <br/>
 
-### 📊 Estatísticas ˎˊ˗
-
-<div >
-<img href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manoelasz&theme=dracula&locale=pt_BR" alt="GitHub Streak"
-    height=165
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manoelasz&theme=midnight_purple"
-  /> 
-  <img src="https://media.tenor.com/vBGIfQpLk50AAAAi/sanrio-sanrio-characters.gif" width="150px" />
-  
-  <br><br>
-  
-  <img
-    height=154
-    alt="Profile Details"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manoelasz&theme=midnight_purple"
-  />
-  <img src="https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif" width="150px" />
-
-</div>
-
-
